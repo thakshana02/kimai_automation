@@ -1,0 +1,6 @@
+Add Updated timesheet Data to the kimai_research_july15_31_2025.csv , then
+
+run the Code
+
+$env:DRY_RUN=$null
+node kimai-bulk-import.js

@@ -1,4 +1,4 @@
-// Env: KIMAI_URL=https://external-staff-time.outeraspect.com/  KIMAI_TOKEN=YOUR_TOKEN
+// Env: KIMAI_URL=https://external-staff-time.outeraspect.com/  KIMAI_TOKEN=TOKEN
 // Optional: FROM_TIME=09:00:00
 const axios = require("axios");
 require('dotenv').config();
